@@ -1,0 +1,28 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=OnePlus
+ro.product.system_ext.device=OnePlus6
+ro.product.system_ext.manufacturer=OnePlus
+ro.product.system_ext.model=ONEPLUS A6003
+ro.product.system_ext.name=OnePlus6
+ro.system_ext.build.date=Thu Oct  6 07:59:39 CEST 2022
+ro.system_ext.build.date.utc=1665035979
+ro.system_ext.build.fingerprint=OnePlus/OnePlus6/OnePlus6:8.1.0/OPM1.171019.011/06140300:user/release-keys
+ro.system_ext.build.id=TP1A.221005.003
+ro.system_ext.build.tags=test-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=eng.kitch.20221006.080310
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from device/oneplus/sdm845-common/system_ext.prop
+####################################
+# DPM
+persist.vendor.dpm.feature=11
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file
